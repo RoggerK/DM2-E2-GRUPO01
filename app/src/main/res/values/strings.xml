@@ -21,5 +21,6 @@
     <string name="valAgua">Agua</string>
     <string name="valLuz">Luz</string>
     <string name="btResolver">Resolver</string>
+    <string name="btIrCuestionario">Ir lista cuestionario</string>
 
 </resources>
