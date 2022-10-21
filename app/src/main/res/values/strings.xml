@@ -2,5 +2,24 @@
     <string name="app_name">ClinicaGrupo01</string>
     <string name="valbtnregistro">REGISTRAR</string>
     <string name="valbtnformulario">FORMULARIO</string>
+    <string name="valCuestionario">CUESTIONARIO COVID - 19</string>
+    <string name="valPregunta01">1. Marca tus sintomas.</string>
+    <string name="valDisminucion">Disminucion del gusto o del ólfato.</string>
+    <string name="valTos">Tos</string>
+    <string name="valDolor">Dolor de garganta</string>
+    <string name="valNasal">Congestion nasal</string>
+    <string name="valFiebre">Fiebre</string>
+    <string name="valNinguno">Ninguno</string>
+    <string name="valPregunta02">2. ¿Tienes fiebre mayor a 37 grados?</string>
+    <string name="valSi">Si</string>
+    <string name="valNo">No</string>
+    <string name="valPregunta03">3. ¿Vives solo en casa?</string>
+    <string name="valPregunta04">4. ¿Vives con un adulto mayor en casa?</string>
+    <string name="valPregunta05">5. ¿Cuentas con los siguientes servicios en casa?</string>
+    <string name="valCable">Cable</string>
+    <string name="valInternet">Internet</string>
+    <string name="valAgua">Agua</string>
+    <string name="valLuz">Luz</string>
+    <string name="btResolver">Resolver</string>
 
 </resources>
