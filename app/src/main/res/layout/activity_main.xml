@@ -12,29 +12,30 @@
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAlignment="center"
+        android:layout_height="149dp"
         android:layout_marginTop="50dp"
-        android:layout_marginLeft="80dp"
-        tools:srcCompat="@tools:sample/avatars" />
+        android:textAlignment="center"
+        app:srcCompat="@drawable/logoclinica"/>
 
     <Button
         android:id="@+id/btnregistro"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
         android:text="@string/valbtnregistro"
         app:icon="@drawable/ic_baseline_save_24"
-         android:layout_marginTop="25dp" />
+        android:layout_marginTop="50dp" />
 
     <Button
         android:id="@+id/btnformulario"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/valbtnformulario"
         android:layout_marginRight="25dp"
         android:layout_marginLeft="25dp"
-        tools:layout_editor_absoluteX="141dp"
-        tools:layout_editor_absoluteY="393dp" />
+        android:layout_marginTop="50dp"
+        android:text="@string/valbtnformulario"
+        app:icon="@drawable/ic_baseline_perm_device_information_24" />
 
     <Button
         android:id="@+id/btnlistado"
@@ -42,7 +43,7 @@
         android:layout_height="wrap_content"
         android:layout_marginRight="25dp"
         android:layout_marginLeft="25dp"
-        android:text="Button"
-        tools:layout_editor_absoluteX="146dp"
-        tools:layout_editor_absoluteY="478dp" />
+        android:layout_marginTop="50dp"
+        android:text="LISTADO"
+        app:icon="@drawable/ic_baseline_format_list_bulleted_24" />
 </LinearLayout>
