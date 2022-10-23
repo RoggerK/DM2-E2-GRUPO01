@@ -2,7 +2,6 @@
     <string name="app_name">ClinicaGrupo01</string>
     <string name="valbtnregistro">REGISTRAR</string>
     <string name="valbtnformulario">FORMULARIO</string>
-<<<<<<< HEAD
     <string name="valCuestionario">CUESTIONARIO COVID - 19</string>
     <string name="valPregunta01">1. Marca tus sintomas.</string>
     <string name="valDisminucion">Disminucion del gusto o del ólfato.</string>
@@ -23,7 +22,6 @@
     <string name="valLuz">Luz</string>
     <string name="btResolver">Resolver</string>
     <string name="btIrCuestionario">Ir lista cuestionario</string>
-=======
     <string name="SNombre">INGRESE SUS Nombres: </string>
     <string name="SApellido">INGRESE SUS Apellidos: </string>
     <string name="SDni">INGRESE SU DNI: </string>
@@ -34,7 +32,4 @@
     <string name="TDeporte">Deporte </string>
     <string name="TPintura">Pintura </string>
     <string name="TOtro">Otro </string>
-
->>>>>>> 825e2db940a8c1015c169da736517a712dfada85
-
 </resources>
