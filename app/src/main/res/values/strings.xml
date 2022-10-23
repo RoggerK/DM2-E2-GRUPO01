@@ -2,5 +2,16 @@
     <string name="app_name">ClinicaGrupo01</string>
     <string name="valbtnregistro">REGISTRAR</string>
     <string name="valbtnformulario">FORMULARIO</string>
+    <string name="SNombre">INGRESE SUS Nombres: </string>
+    <string name="SApellido">INGRESE SUS Apellidos: </string>
+    <string name="SDni">INGRESE SU DNI: </string>
+    <string name="SContraseña">INGRESE SU Contraseña: </string>
+    <string name="SCorreo">INGRESE SU Correo: </string>
+    <string name="TMasculino">Masculino </string>
+    <string name="TFemenino">Femenino </string>
+    <string name="TDeporte">Deporte </string>
+    <string name="TPintura">Pintura </string>
+    <string name="TOtro">Otro </string>
+
 
 </resources>
